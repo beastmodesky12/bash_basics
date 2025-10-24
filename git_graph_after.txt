@@ -1,0 +1,21 @@
+* 86a0f87 (HEAD -> main, origin/main) Resolve merge conflict between master and parallel-branch for script3.sh
+* 0b5ea15 (origin/parallel-branch, parallel-branch) Part II: parallel edit to 04-life.sh (parallel-branch)
+| * a05412b (origin/part2-first-edit, part2-first-edit) Part II: first edit to 04-life.sh (part2-first-edit)
+|/  
+*   7ca41ce (upstream/main, upstream/HEAD) Merge pull request #28 from xddddddx/main
+|\  
+| * d44127f added screenshots
+| *   aee6ff9 Merge branch 'parallel'
+| |\  
+| | * f2747ff Update 03-happy.sh
+| * | 082d8cf Update 03-happy.sh
+| |/  
+| * 92ac9c9 Update 03-happy.sh
+| * e1b70f3 create new file and prints my  name
+|/  
+* 303cfd8 update readme file
+* 30d81ec adding readme file
+* 36a5053 adding more sh files
+* b25ada9 updating gitignore
+* 6f32883 adding git ignore
+* b7220d2 first commit
