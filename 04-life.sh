@@ -14,3 +14,4 @@ fi
 
 # exercise: write a script that prints whether it is 
 # morning or not
+echo "Edit B: SKYLOR PRINCE - parallel universe - $(date +%F)"
